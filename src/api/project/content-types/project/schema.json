@@ -27,7 +27,7 @@
     "Date": {
       "type": "date"
     },
-    "Img": {
+    "img": {
       "type": "media",
       "multiple": true,
       "required": false,
@@ -38,7 +38,7 @@
         "audios"
       ]
     },
-    "Video": {
+    "video": {
       "type": "media",
       "multiple": true,
       "required": false,
@@ -49,10 +49,10 @@
         "audios"
       ]
     },
-    "Embed_video": {
+    "embed_video": {
       "type": "richtext"
     },
-    "Embed_audio": {
+    "embed_audio": {
       "type": "richtext"
     }
   }

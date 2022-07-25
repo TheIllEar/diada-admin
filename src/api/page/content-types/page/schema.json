@@ -12,16 +12,16 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "title": {
+    "Title": {
       "type": "string"
     },
-    "description": {
+    "Description": {
       "type": "text"
     },
-    "name": {
+    "Name": {
       "type": "string"
     },
-    "img": {
+    "Img": {
       "type": "media",
       "multiple": false,
       "required": false,
@@ -32,7 +32,7 @@
         "audios"
       ]
     },
-    "caption": {
+    "Caption": {
       "type": "string"
     }
   }

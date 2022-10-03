@@ -34,6 +34,9 @@
     },
     "Caption": {
       "type": "string"
+    },
+    "PageDescription": {
+      "type": "richtext"
     }
   }
 }

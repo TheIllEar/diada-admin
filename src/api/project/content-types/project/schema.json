@@ -54,6 +54,9 @@
     },
     "Embed_audio": {
       "type": "richtext"
+    },
+    "Sort": {
+      "type": "string"
     }
   }
 }

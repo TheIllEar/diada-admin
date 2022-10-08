@@ -57,6 +57,11 @@
     },
     "Sort": {
       "type": "string"
+    },
+    "Slug": {
+      "type": "string",
+      "required": true,
+      "unique": true
     }
   }
 }

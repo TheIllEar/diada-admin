@@ -56,7 +56,9 @@
       "type": "richtext"
     },
     "Sort": {
-      "type": "string"
+      "type": "string",
+      "required": true,
+      "unique": true
     },
     "Slug": {
       "type": "string",

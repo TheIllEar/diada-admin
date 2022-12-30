@@ -64,6 +64,17 @@
       "type": "string",
       "required": true,
       "unique": true
+    },
+    "Thumbs": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }

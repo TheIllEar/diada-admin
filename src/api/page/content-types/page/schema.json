@@ -37,6 +37,9 @@
     },
     "PageDescription": {
       "type": "richtext"
+    },
+    "ContentType": {
+      "type": "string"
     }
   }
 }
